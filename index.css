@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,200&display=swap');
 
+*{
+    height:100vh;
+}
 body{
     background-color: hsl(204, 43%, 93%);
     font-family: 'Karla', sans-serif;
-    height:100vh;
 }
 
 /* The main box */
